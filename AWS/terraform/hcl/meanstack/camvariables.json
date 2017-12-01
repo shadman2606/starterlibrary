@@ -3,6 +3,7 @@
         "description": "AWS region to launch servers", 
         "hidden": false, 
         "immutable": false, 
+        "immutable_after": true, 
         "label": "AWS Region", 
         "name": "aws_region", 
         "required": true, 
